@@ -54,6 +54,8 @@ Thử nghiệm được thực hiện trên 3 truy vấn nghiên cứu phức t�
 
 ## 4. Tracing & Execution Flow
 
+![LangSmith Multi-Agent Trace](images/langsmith_trace.png)
+
 Hệ thống tích hợp **LangSmith / OpenTelemetry tracing hooks** (`observability/tracing.py`) cho phép ghi vết tường minh từng sự kiện:
 
 ```text
